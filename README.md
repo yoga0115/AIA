@@ -7,3 +7,5 @@
 4. AIATL：Transfer Learning 轉移學習 by 王鈺強老師
 5. AIARNN：深度學習理論: 遞迴神經網路 by 蔡炎龍老師
 6. AIANLP：深度學習於自然語言處理之應用 by 高宏宇老師
+7. AIARL：深度學習理論: 強化學習 by 孫民老師
+8. AIACV：深度學習於電腦視覺之應用 by 林彥宇老師
