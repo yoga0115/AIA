@@ -9,3 +9,5 @@
 6. AIANLP：深度學習於自然語言處理之應用 by 高宏宇老師
 7. AIARL：深度學習理論: 強化學習 by 孫民老師
 8. AIACV：深度學習於電腦視覺之應用 by 林彥宇老師
+9. AIAGAN：深度學習理論: 生成式對抗網路 by 魏澤人老師
+10. AIAST：讀書會報告內容（siamese + triplet）
