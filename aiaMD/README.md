@@ -10,7 +10,11 @@ https://www.kaggle.com/t/b4b08108caf54f378d59915e214126dd
 Leaderboard:0.813333
 
 Slide連結：https://docs.google.com/presentation/d/17KQRgThW_vSAW68iKhJmF1haGhAejPZK5_AdJE9GV8M/edit?usp=sharing
+
 Hub dataset路徑：
+
 /data/examples/may_the_4_be_with_u/
+
 題目一: show_me_the_money
+
 題目二: where_am_i
