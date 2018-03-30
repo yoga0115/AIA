@@ -11,3 +11,4 @@
 8. AIACV：深度學習於電腦視覺之應用 by 林彥宇老師
 9. AIAGAN：深度學習理論: 生成式對抗網路 by 魏澤人老師
 10. AIAST：讀書會報告內容（siamese + triplet）
+11. AIAMD：期中考相關
