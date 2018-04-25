@@ -1,4 +1,0 @@
-本資料夾所包含之資料為各POI種類之點位
-主要使用的資料為 Hotel、Restaurant、Convininet Store以及Transportation
-上述資料皆由大台中重要地標利用Field Calculator所萃取出來
-如欲使用其他種類資料亦可從大台中重要地標裡獲取
