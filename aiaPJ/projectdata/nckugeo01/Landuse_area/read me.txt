@@ -1,0 +1,9 @@
+本資料夾內為土地利用資料
+包含
+All_Res = 所有住宅區
+Commercial_Res = 兼商業使用住宅
+Indus_Res = 兼工業使用住宅
+Mix _ Res = 兼商業使用住宅+兼工業使用住宅
+Pure_Res = 純住宅區
+
+土地利用資料主要使用之欄位為Area一欄
