@@ -12,3 +12,4 @@
 9. AIAGAN：深度學習理論: 生成式對抗網路 by 魏澤人老師
 10. AIAST：讀書會報告內容（siamese + triplet）
 11. AIAMD：期中考相關
+12. AIAPJ：專案
